@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             COLLABORATIONTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Collab",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
